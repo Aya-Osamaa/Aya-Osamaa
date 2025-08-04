@@ -8,10 +8,10 @@ Whether I’m uncovering patterns in large datasets or building the APIs that se
 
 ### About Me ✶
 I’m a Software Developer with a strong focus on data analytics and backend development. I am passionate about turning data into meaningful insights and building systems that power efficient, data-driven solutions.
--I’m currently developing an end-to-end project that blends data analytics and backend development — from cleaning and modeling datasets in Python to building RESTful APIs with Node.js.
--I’m currently enhancing my skills in advanced predictive analytics ,DAX ,and enhancing my BI dashboard skills.
--I’m looking to collaborate on full-stack analytics projects that involve both data insights and functional backend systems.
--I’m interested in learning more about data pipelines, cloud-based solutions, and performance-driven APIs.
+-  I’m currently developing an end-to-end project that blends data analytics and backend development — from cleaning and modeling datasets in Python to building RESTful APIs with Node.js.
+-  I’m currently enhancing my skills in advanced predictive analytics ,DAX ,and enhancing my BI dashboard skills.
+-  I’m looking to collaborate on full-stack analytics projects that involve both data insights and functional backend systems.
+-  I’m interested in learning more about data pipelines, cloud-based solutions, and performance-driven APIs.
 
 My journey started with code, but it quickly grew into dashboards, models, and visual experiments. I’m fascinated by the way a well-designed dataset can speak louder than a thousand meetings.
 I believe that clean code, intuitive design, and a little creativity can solve pretty big problems. And I’m here for it.
