@@ -16,7 +16,7 @@ I’m a Software Developer with a strong focus on data analytics and backend dev
 My journey started with code, but it quickly grew into dashboards, models, and visual experiments. I’m fascinated by the way a well-designed dataset can speak louder than a thousand meetings.
 I believe that clean code, intuitive design, and a little creativity can solve pretty big problems. And I’m here for it.
 
-### 🛠️ Tech Stack
+###  Tech Stack ✶
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
